@@ -32,3 +32,6 @@ function multiply(a, b){
 ## Courses
 * [Java Script](https://learn.javascript.ru)
 (in progress)
+
+## Languages
+* English
